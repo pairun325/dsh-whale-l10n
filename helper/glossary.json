@@ -1,0 +1,32 @@
+{
+  "_comment": "术语表：src 里的写法照抄原文（大小写敏感），dst 是必须使用的译名。翻译时整份注入提示词，翻完再按 src 做一次保险替换。",
+  "Limbus Company": {
+    "Yi Sang": "李箱",
+    "Faust": "浮士德",
+    "Don Quixote": "堂吉诃德",
+    "Ryoshu": "良秀",
+    "Meursault": "默尔索",
+    "Hong Lu": "鸿路",
+    "Heathcliff": "希斯克利夫",
+    "Ishmael": "以实玛利",
+    "Rodion": "罗佳",
+    "Sinclair": "辛克莱",
+    "Outis": "奥提斯",
+    "Gregor": "格里高尔",
+    "Dante": "但丁",
+    "Vergilius": "维吉尔",
+    "Identity": "人格",
+    "E.G.O": "E.G.O",
+    "Mirror Dungeon": "镜像迷宫",
+    "Thread": "线"
+  },
+  "通用": {
+    "HP": "生命值",
+    "SP": "理智值",
+    "ATK": "攻击",
+    "DEF": "防御",
+    "Cooldown": "冷却",
+    "Skill": "技能",
+    "Passive": "被动"
+  }
+}

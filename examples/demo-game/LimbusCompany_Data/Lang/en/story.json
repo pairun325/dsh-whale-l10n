@@ -1,0 +1,28 @@
+﻿{
+    "dataList":  [
+                     {
+                         "teller":  "Yi Sang",
+                         "dialog":  "The mirror shows a path that never was.",
+                         "name":  "Mirror",
+                         "id":  1
+                     },
+                     {
+                         "teller":  "Faust",
+                         "dialog":  "Knowledge is a debt; every answer charges interest.",
+                         "name":  "Faust",
+                         "id":  2
+                     },
+                     {
+                         "teller":  "Don Quixote",
+                         "dialog":  "Forward! The windmill awaits our lance!",
+                         "name":  "Ishmael",
+                         "id":  3
+                     },
+                     {
+                         "teller":  "Ryoshu",
+                         "dialog":  "Cut. Do not ask what the blade thinks.",
+                         "name":  "Ryoshu",
+                         "id":  4
+                     }
+                 ]
+}
